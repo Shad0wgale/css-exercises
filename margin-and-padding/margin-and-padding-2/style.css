@@ -14,6 +14,8 @@ body {
 
 .button {
   background: #e3f4ff;
+  text-align: center;
+  display: block;
 }
 
 button {

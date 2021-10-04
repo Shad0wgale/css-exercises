@@ -29,6 +29,9 @@ button {
   width: 400px;
   background: #fff;
   margin: 16px auto;
-  padding-left: 8px;
-  padding-right: 8px;
+}
+
+div {
+  padding: 8px;
+  margin: 8px;
 }

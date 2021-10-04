@@ -22,7 +22,6 @@ button {
   background: white;
   border: 1px solid #eee;
   display: block;
-  align: center;
 }
 
 .card {
@@ -31,7 +30,7 @@ button {
   margin: 16px auto;
 }
 
-div {
+.div {
   padding: 8px;
   margin: 8px;
 }

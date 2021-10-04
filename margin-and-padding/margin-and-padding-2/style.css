@@ -34,9 +34,10 @@ button {
   background: white;
   border: 1px solid #eee;
   align: center;
+  padding: 8px;
 }
 
 div button {
   align: center;
-  
+  padding: 8px;
 }

@@ -17,6 +17,7 @@ body {
 
 .content {
   background: #e3f4ff;
+  text-align: center;
 }
 
 .button {
@@ -26,4 +27,5 @@ body {
 button {
   background: white;
   border: 1px solid #eee;
+  display: block;
 }

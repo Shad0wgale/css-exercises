@@ -4,7 +4,8 @@
   width: 400px;
   height: 300px;
   display: flex;
-  align-item: center;
+  align-items: center;
+  justify-content: center;
 }
 
 .box {

@@ -56,9 +56,11 @@ ul {
 .right {
   display:flex;
   justify-content:flex-end;
+  gap:16px;
 }
 
 .left {
   display:flex;
   justify-content:flex-start;
+  gap:16px;
 }

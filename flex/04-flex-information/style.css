@@ -30,11 +30,11 @@ img {
 .information {
   display:flex;
   justify-content:space-between;
-  max-width:200px;
 }
 
 .info {
   display:flex;
   flex-wrap:wrap;
   justify-content:center;
+  max-width:200px;
 }

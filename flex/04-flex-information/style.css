@@ -26,3 +26,8 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+.information {
+  display:flex;
+  justify-content:space-between;
+}

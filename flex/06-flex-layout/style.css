@@ -48,5 +48,6 @@ div.content {
 
 div.footer {
   display: flex;
-    background-color: #eeeeee;
+  background-color: #eeeeee;
+  justify-content: space-between;
 }

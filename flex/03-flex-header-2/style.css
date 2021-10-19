@@ -51,6 +51,8 @@ a {
 ul {
   list-style-type: none;
   display:flex;
+  align-content: center;
+
 }
 
 .right {
@@ -63,4 +65,8 @@ ul {
   display:flex;
   justify-content:flex-start;
   gap:16px;
+}
+
+.links {
+  gap: 16px;
 }

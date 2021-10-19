@@ -32,11 +32,11 @@ header {
   flex-direction: row;
 }
 
-.left-links {
+ul.left-links {
   display: flex;
 }
 
-.right-links {
+ul.right-links {
   display: flex;
 }
 

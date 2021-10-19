@@ -31,3 +31,17 @@ header {
   justify-content: space-between;
   flex-direction: row;
 }
+
+.left-links {
+  display: flex;
+}
+
+.right-links {
+  display: flex;
+}
+
+div.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

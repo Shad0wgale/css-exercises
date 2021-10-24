@@ -30,9 +30,7 @@ div.header {
   display: flex;
   justify-content: space-between;
   flex-direction: row;
-  top: 0;
   width: 100%;
-  position: fixed;
 }
 
 ul.left-links {
@@ -51,14 +49,14 @@ div.content {
   display: flex;
   flex-direction: column;
   align-items: center;
+  height:100%;
+  width:auto;
 }
 
 div.footer {
   display: flex;
   background-color: #eeeeee;
   justify-content: space-between;
-  position: fixed;
-  bottom: 0;
   width: 100%;
 }
 

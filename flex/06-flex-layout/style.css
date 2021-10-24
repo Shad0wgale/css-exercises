@@ -33,14 +33,17 @@ div.header {
   top: 0;
   width: 100%;
   position: fixed;
+  gap: 8px;
 }
 
 ul.left-links {
   display: flex;
+  list-style-type: none;
 }
 
 ul.right-links {
   display: flex;
+  list-style-type: none;
 }
 
 div.content {
@@ -56,4 +59,5 @@ div.footer {
   position: fixed;
   bottom: 0;
   width: 100%;
+  gap: 8px;
 }

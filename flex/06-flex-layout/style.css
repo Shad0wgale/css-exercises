@@ -30,6 +30,9 @@ div.header {
   display: flex;
   justify-content: space-between;
   flex-direction: row;
+  top: 0;
+  width: 100%;
+  position: fixed;
 }
 
 ul.left-links {
@@ -52,4 +55,5 @@ div.footer {
   justify-content: space-between;
   position: fixed;
   bottom: 0;
+  width: 100%;
 }

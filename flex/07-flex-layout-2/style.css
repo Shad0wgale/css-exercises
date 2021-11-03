@@ -29,6 +29,7 @@ body {
 .sidebar {
   width: 300px;
   background: royalblue;
+  list-style:none;
 }
 
 .card {

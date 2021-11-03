@@ -30,6 +30,7 @@ body {
   width: 300px;
   background: royalblue;
   list-style:none;
+  flex-shrink: 0;
 }
 
 .card {
@@ -43,6 +44,7 @@ body {
 
 .middle {
   display:flex;
+  flex:1;
 }
 
 .cards {

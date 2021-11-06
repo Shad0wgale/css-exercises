@@ -54,6 +54,7 @@ body {
   display:flex;
   padding: 32px;
   flex-wrap:wrap;
+  flex-direction: column;
 }
 
 ul {
@@ -69,8 +70,10 @@ font-size: xx-large;
 
 .topcard {
   flex:1;
+  display:flex;
 }
 
 .botcard {
   flex:1;
+  display:flex;
 }

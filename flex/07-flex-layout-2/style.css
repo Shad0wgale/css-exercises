@@ -66,3 +66,11 @@ text-decoration:none;
 color:white;
 font-size: xx-large;
 }
+
+.topcard {
+  flex:1;
+}
+
+.botcard {
+  flex:1;
+}
